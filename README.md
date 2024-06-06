@@ -87,7 +87,7 @@ For more information, feel free to contact the project contributors:
 
 - Rupantar Chowdhury:(https://github.com/rupantar99)
 - Rahul Kumar Gorai(https://github.com/rahulgorai123)
-- Ashish Ranjan
+- Ashish Ranjan(https://github.com/Ashish-ranjan82)
 - Under the supervision of Dr. Anirban Goswami
 
 ## License
