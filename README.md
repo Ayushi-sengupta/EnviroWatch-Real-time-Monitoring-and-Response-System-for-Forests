@@ -93,7 +93,7 @@ For more information, feel free to contact the project contributors:
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-!Envirowatch_Webapp_Interface(https://github.com/Ayushi-sengupta/EnviroWatch-Real-time-Monitoring-and-Response-System-for-Forests/blob/main/Pictures/webapp1.jpg)
+![Envirowatch_Webapp_Interface](https://github.com/Ayushi-sengupta/EnviroWatch-Real-time-Monitoring-and-Response-System-for-Forests/blob/main/Pictures/webapp1.jpg)
 
 
 
