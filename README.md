@@ -85,7 +85,7 @@ Forest Ranger provides an effective solution for forest fire management and defo
 For more information, feel free to contact the project contributors:
 
 - Rupantar Chowdhury:(https://github.com/rupantar99)
-- Rahul Kumar Gorai
+- Rahul Kumar Gorai(https://github.com/rahulgorai123)
 - Ashish Ranjan
 - Under the supervision of Dr. Anirban Goswami
 
