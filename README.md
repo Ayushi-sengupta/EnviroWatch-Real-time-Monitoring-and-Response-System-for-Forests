@@ -87,7 +87,7 @@ For more information, feel free to contact the project contributors:
 - Rupantar Chowdhury:(https://github.com/rupantar99)
 - Rahul Kumar Gorai
 - Ashish Ranjan
-- Under the supervision of Dr. Anirban Ghosh
+- Under the supervision of Dr. Anirban Goswami
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
