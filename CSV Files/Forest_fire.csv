@@ -1,0 +1,40 @@
+Area,Oxygen,Temperature,Humidity,Fire Occurrence
+Jharkand,40,45,20,1
+Bangalore,50,30,10,1
+Ecuador,10,20,70,0
+andaman,60,45,70,1
+Bangalore,30,48,10,1
+chennai,50,15,30,0
+Mizoram,5,35,35,0
+Assam,5,20,70,0
+Nagaland,60,32,19,1
+Manipur,30,50,45,1
+Mizoram,40,55,80,1
+Tripura,30,39,100,0
+Meghalaya,10,12,12,0
+West Bengal,20,23,23,0
+Sikkim,60,34,15,1
+Odisha,80,4,68,0
+Chhattisgarh,25,56,79,1
+Jharkhand,12,45,90,0
+Madhya Pradesh,28,43,15,1
+Maharashtra,26,0,32,0
+Karnataka,32,37,21,1
+Kerala,45,48,12,1
+Tamil Nadu,56,15,65,0
+Andhra Pradesh,67,45,33,1
+Telangana,78,49,8,1
+Gujarat,89,45,18,1
+Rajasthan,21,12,44,0
+Uttar Pradesh,11,20,59,0
+Bihar,1,32,70,0
+Haryana,5,20,45,0
+Punjab,42,43,20,1
+Goa,32,60,30,1
+Andaman and Nicobar Islands,5,15,5,0
+Lakshadweep,20,30,5,0
+Daman and Diu,30,51,2,1
+Dadra and Nagar Haveli,60,60,10,1
+Chandigarh,10,10,60,0
+Delhi,0,30,0,0
+Puducherry,45,45,15,1
