@@ -80,6 +80,8 @@ Forest Ranger is a comprehensive solution designed to enhance forest conservatio
 ## Conclusion
 Forest Ranger provides an effective solution for forest fire management and deforestation detection. The integration of various technologies enhances forest conservation efforts and improves the response to forest fires.
 
+## Envirowatch_Webapp_Interface(https://github.com/Ayushi-sengupta/EnviroWatch-Real-time-Monitoring-and-Response-System-for-Forests/blob/main/Pictures/webapp1.jpg)
+
 
 ## Contact
 For more information, feel free to contact the project contributors:
